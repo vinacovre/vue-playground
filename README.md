@@ -1,4 +1,4 @@
-# vue-playground
+# Vue.js Playground [![Vue.js Badge](https://aleen42.github.io/badges/src/vue.svg)](https://vuejs.org)
 
 ## Project setup
 ```
